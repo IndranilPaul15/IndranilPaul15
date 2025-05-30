@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Indranil Paul (@IndranilPaul15)
 
-🎓 I’m a 3rd-year B.Tech student in Computer Science & Engineering at **Swami Vivekananda University**, Burdwan.
+🎓 I’m a Final-year B.Tech student in Computer Science & Engineering at **Swami Vivekananda University**.
 
 ---
 
